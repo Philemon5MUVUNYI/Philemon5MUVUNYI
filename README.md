@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Philemon5MUVUNYI/Philemon5MUVUNYI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Philemon Muvunyi 👋
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at AUCA, Rwanda, passionate about building software and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Software Engineering Student
+- 👨‍💻 Aspiring Full-Stack Developer
+- 🌱 Currently learning Spring Boot and React.js
+- ☕ Interested in Java, JavaScript, and Backend Development
+- 🚀 Always learning and building new projects
+
+### 🛠️ Technologies & Tools
+- **Languages:** Java, JavaScript
+- **Backend:** Spring Boot
+- **Frontend:** React.js, Vue.js
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, IntelliJ IDEA, Postman
+
+### 📫 Connect With Me
+- GitHub: 
+
+---
+
+*"Building, learning, and improving one line of code at a time."*
