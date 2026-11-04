@@ -18,7 +18,8 @@ I'm a Software Engineering student at AUCA, Rwanda, passionate about building so
 - **Tools:** Git, GitHub, IntelliJ IDEA, Postman
 
 ### 📫 Connect With Me
-- GitHub: 
+- GitHub: https://github.com/Philemon5MUVUNYI
+- LinkedIn: https://www.linkedin.com/in/muvunyi-philemon-link/
 
 ---
 
