@@ -4,11 +4,7 @@
 I'm a Software Engineering student at AUCA, Rwanda, passionate about building software and solving real-world problems through technology.
 
 ### 💻 About Me
-- 🎓 Software Engineering Student
-- 👨‍💻 Aspiring Full-Stack Developer
-- 🌱 Currently learning Spring Boot and React.js
-- ☕ Interested in Java, JavaScript, and Backend Development
-- 🚀 Always learning and building new projects
+I am a highly motivated 4th-year Information Technology student at the Adventist University of Central Africa (AUCA), with a strong foundation in full-stack software development. During my recent internship at the Rwanda Revenue Authority (RRA), I gained hands-on experience in enterprise environments, which inspired my approach to building secure, scalable applications.
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Java, JavaScript
